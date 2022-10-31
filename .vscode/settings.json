@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/643e4344-7909-4016-9342-04bcac2ba6e1/AppServices/subscriptions/643e4344-7909-4016-9342-04bcac2ba6e1/resourceGroups/AzureLawClub_group/providers/Microsoft.Web/sites/LawServer",
+    "appService.deploySubpath": "."
+}

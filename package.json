@@ -4,7 +4,7 @@
   "private": false,
   "scripts": {
     "test": "node ./bin/www",
-    "start": "node app",
+    "start": "node server",
     "dev": "nodemon server"
   },
   "dependencies": {
@@ -18,7 +18,7 @@
     "nodemon": "^2.0.20",
     "pg": "^8.8.0"
   },
-  "main": "app.js",
+  "main": "server.js",
   "keywords": [],
   "author": "",
   "license": "ISC",
